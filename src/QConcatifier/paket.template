@@ -1,0 +1,29 @@
+type file
+id QConcatifier
+title
+    QConcatifier
+owners
+    David Zimmer
+authors 
+    David Zimmer
+projectUrl
+    https://github.com/ZimmerD/QConcatifier
+iconUrl
+    https://raw.githubusercontent.com/ZimmerD/QConcatifier/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/ZimmerD/QConcatifier/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    Qconcat Proteomics shotgun F# FSharp mass spec
+summary
+    This project offers an automated processing pipeline for Quantification of QConcat peptides.
+description
+    Description not set
+
+files
+	../../bin/QConcatifier ==> lib
